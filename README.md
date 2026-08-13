@@ -1,5 +1,5 @@
 # Imports and DataSets
-pandas is used for data manipulation.\n
+pandas is used for data manipulation.
 matplotlib.pyplot and seaborn are for plotting.
 The CSV containing the entire dataset is loaded into a DataFrame df but only the first five rows are displayed.
 
